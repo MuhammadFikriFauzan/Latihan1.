@@ -1,5 +1,4 @@
 # Latihan1.
-		- ## belajar cara coding
-## salam coding
+### salam coding
 		hello world
 - happy coding
